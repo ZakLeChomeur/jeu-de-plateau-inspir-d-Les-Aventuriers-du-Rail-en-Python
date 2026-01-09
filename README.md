@@ -8,7 +8,7 @@ L’architecture du programme repose sur une approche orientée objet. La classe
 
 Le jeu propose un mode joueur contre joueur, partiellement fonctionnel, ainsi qu’un mode joueur contre ordinateur, encore en cours de développement. Les interactions se font via une interface en ligne de commande. Pour effectuer des choix, le joueur doit simplement entrer le chiffre correspondant à l’action souhaitée, en se laissant guider par les messages affichés dans le terminal. Ce choix volontairement minimaliste permet de se concentrer sur la logique interne du jeu plutôt que sur l’interface graphique.
 
-⚠️ État du projet – à finaliser
+État du projet – à finaliser
 Ce projet constitue une base fonctionnelle mais incomplète, destinée à être reprise et améliorée. Les principales pistes de finalisation incluent :
 
 * l’implémentation complète des routes et de leur attribution,
